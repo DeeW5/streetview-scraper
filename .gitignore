@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+data/
+dataset_filter.py
+flickr_london_download.py
